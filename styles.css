@@ -3,5 +3,10 @@
     height: 100%;
 }
 .color_navbar{
-    background-color: #0D231E;
+    background-color: #31c9a5;
 }
+
+.navbar-toggler-icon {
+    width: 8em;
+    height: 8em;
+  }
